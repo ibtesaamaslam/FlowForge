@@ -1,0 +1,5 @@
+{
+  "name": "ISP Town Manager",
+  "description": "A comprehensive admin UI for ISP operators to manage towns, subscribers, billing, and payments with Excel import capabilities.",
+  "requestFramePermissions": []
+}
