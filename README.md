@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Deployed-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 # 📡 FlowForge — ISP Town Manager
 ### *React 19 · TypeScript · Tailwind CSS · SheetJS · Offline-First*
